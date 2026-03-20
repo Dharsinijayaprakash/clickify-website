@@ -25,7 +25,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Click here to open Clickify](https://Dharsinijayaprakash.github.io/clickify)**
+👉 **[Click here to open Clickify](https://dharsinijayaprakash.github.io/clickify-website/)**
 
 > Replace the link above with your actual GitHub Pages URL
 
